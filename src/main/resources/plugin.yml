@@ -1,0 +1,13 @@
+name: CombatGuard
+version: '${version}'
+main: fr.gregwll.combatGuard.CombatGuard
+api-version: '1.21'
+author: Gregwll
+commands:
+  combatguard:
+    description: CombatGuard admin commands
+    usage: /combatguard reload
+    permission: combatguard.admin
+  stats:
+    description: Display a player's combat stats
+    usage: /stats <player>

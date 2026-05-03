@@ -1,0 +1,16 @@
+# CombatGuard Configuration
+
+# Plugin prefix
+prefix: "§x§0§0§8§D§F§F§l§nC§x§1§4§7§F§F§F§l§no§x§2§8§7§1§F§F§l§nm§x§3§C§6§3§F§F§l§nb§x§5§0§5§5§F§F§l§na§x§6§4§4§7§F§F§l§nt§x§7§8§3§8§F§F§l§nG§x§8§C§2§A§F§F§l§nu§x§A§0§1§C§F§F§l§na§x§B§4§0§E§F§F§l§nr§x§C§8§0§0§F§F§l§nd"
+
+# Combat tag duration in seconds
+combat-duration: 15
+
+# Punishment on combat logout: kill | ban | both
+punishment: kill
+
+# Ban duration in seconds (only if punishment is "ban" or "both")
+ban-duration: 300
+
+# Show kills/deaths in tab list
+tab-stats: true
